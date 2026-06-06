@@ -1,2 +1,26 @@
-# Eye-Care-Screen-Distance-Based-Brightness-Control
-An AI-powered eye care system using Python and OpenCV that monitors user screen distance in real time, adjusts brightness automatically, tracks safe and unsafe viewing habits, and visualizes usage statistics through charts and analytics.
+# Eye-Care Screen Distance Based Brightness Control
+
+A Python, OpenCV, and Machine Learning system that monitors user distance from the screen and automatically adjusts brightness to reduce eye strain.
+
+## Features
+
+- Real-time user distance monitoring
+- Automatic screen brightness adjustment
+- Eye safety alerts for unsafe viewing distance
+- Usage analytics and activity tracking
+- Pie charts and bar charts for visualization
+- User status monitoring (Safe / Unsafe)
+- Distance and usage report generation
+
+## Technologies Used
+
+- Python
+- OpenCV
+- Machine Learning
+- NumPy
+- Pandas
+- Matplotlib
+
+## GitHub Repository
+
+Developed as an academic project for eye safety and user behavior analysis.
